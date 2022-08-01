@@ -21,4 +21,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
 </div>
 
-<!-- ![Snake animation](https://github.com/FellipeOliveiraBartalini/FellipeOliveiraBartalini/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/FellipeOliveiraBartalini/FellipeOliveiraBartalini/blob/output/github-contribution-grid-snake.svg)
