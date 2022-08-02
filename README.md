@@ -7,8 +7,8 @@
 
 <div>
     <a href="https://github.com/FellipeOliveiraBartalini">
-        <img src="https://github-readme-stats.vercel.app/api?username=FellipeOliveiraBartalini&theme=shades-of-purple" alt="Gráfico com as estatísticas de Fellipe de Oliveire">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeOliveiraBartalini&theme=shades-of-purple&langs_count=10&layout=compact" alt="Gráfico com as linguagems mais usadas por Fellipe de Oliveire">
+        <img src="https://github-readme-stats.vercel.app/api?username=FellipeOliveiraBartalini&theme=shades-of-purple" alt="Gráfico com as estatísticas de Fellipe de Oliveira" width="49%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeOliveiraBartalini&theme=shades-of-purple&langs_count=10&layout=compact" alt="Gráfico com as linguagems mais usadas por Fellipe de Oliveira" width="49%">
     </a>
 </div>
 
