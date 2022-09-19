@@ -2,7 +2,7 @@
 # Eu sou o Fellipe de Oliveira!
 
 - 🔭 Trabalho como FullStack;
-- 🌱 Atualmente estou estudando React;
+- 🌱 Atualmente estou estudando Algorítmos;
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
