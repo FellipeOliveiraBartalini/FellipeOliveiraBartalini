@@ -4,6 +4,8 @@
 - 🔭 Trabalho como FullStack;
 - 🌱 Atualmente estou estudando React;
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 📘 LinkedIn: <a href="https://www.linkedin.com/in/fellipe-oliveira-4b338a204/" target="_blank" style="padding: 8px !important; border-radius: 20px !important; background-color: #70b5f9 !important; color: #0d1117 !important;
+">Fellipe de Oliveira</a>
 
 <div>
     <a href="https://github.com/FellipeOliveiraBartalini">
