@@ -3,7 +3,7 @@
 <h3 align="left">A programming lover, that is:</h3>
 
 - 🔭 Currently working as a FullStack Developer;
-- 🌱 Studying best practices with React, NodeJS and Clean Code;
+- 🌱 Studying best practices with React, Next, NodeJS and Software Engineering;
 - 🧠 And looking to know more about the world of programming and computers.
 
 - 📘 LinkedIn: <a href="https://www.linkedin.com/in/fellipe-oliveira-4b338a204/" target="_blank" style="padding: 8px !important; border-radius: 20px !important; background-color: #70b5f9 !important; color: #0d1117 !important;
